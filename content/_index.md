@@ -1,3 +1,4 @@
+---
 # Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
@@ -121,3 +122,4 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+---

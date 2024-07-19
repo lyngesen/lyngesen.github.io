@@ -59,8 +59,7 @@ work:
     date_start: 2020-11-01
     date_end: 2023-06-31
     summary: |
-      Front-end developer of business intelligence dashboards in Targit. Dashboards are used internally for Financial Management and HR purposes. Public dashboards are available at aarhus.dk/AiT. Python scripts for automation
-and development of internal task management tool.
+      Front-end developer of business intelligence dashboards in Targit. Dashboards are used internally for Financial Management and HR purposes. Public dashboards are available at aarhus.dk/AiT. Python scripts for automation and development of internal task management tool.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

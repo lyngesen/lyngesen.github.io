@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: #121215 
         image:
           # Add your image background to `assets/media/`.
           filename: iceland.JPG
